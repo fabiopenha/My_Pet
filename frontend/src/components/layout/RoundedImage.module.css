@@ -1,0 +1,13 @@
+.rounded_image {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.rounded_image.px75 {
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+    object-fit: cover;
+}
